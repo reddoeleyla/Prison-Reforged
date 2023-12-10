@@ -1,0 +1,3 @@
+name: Prison-Reforged
+version: '${version}'
+main: it.fusionmc.prison.Prison_Reforged
